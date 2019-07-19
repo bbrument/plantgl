@@ -13,7 +13,6 @@ Module description
 
 .. sidebar:: Summary
 
-    :Version: |version|
     :Release: |release|
     :Date: |today|
 

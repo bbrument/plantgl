@@ -6,7 +6,6 @@
 Plantgl Reference Guide
 ########################
 
-:Version: |version|
 :Release: |release|
 :Date: |today|
 
