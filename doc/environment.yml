@@ -1,9 +1,11 @@
 name: openalea-doc
 channels:
   - openalea
+  - conda-forge
   - defaults
 dependencies:
   - python=2.7
   - mpfr=3.1.4
   - openalea.misc
   - openalea.plantgl
+  - openalea.sconsx
