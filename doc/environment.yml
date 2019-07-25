@@ -9,3 +9,4 @@ dependencies:
   - openalea.misc
   - openalea.plantgl
   - openalea.sconsx
+  - sphinx_rtd_theme
