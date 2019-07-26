@@ -53,6 +53,7 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.viewcode',
     'sphinx.ext.graphviz',
+    'sphinx.ext.doctest',
     'sphinx.ext.inheritance_diagram'
 ]
 

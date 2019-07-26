@@ -1,11 +1,11 @@
 name: openalea-doc
 channels:
   - openalea
-  - conda-forge
-  - defaults
+  - anaconda
+  - openalea/label/unstable
 dependencies:
-  - mpfr
   - openalea.misc
-  - openalea.plantgl
+  - openalea.plantgl=2.23.2
   - openalea.sconsx
-  - sphinx_rtd_theme
+  - boost=1.66
+  - graphviz
