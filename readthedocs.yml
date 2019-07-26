@@ -10,7 +10,7 @@ sphinx:
   configuration: doc/conf.py
 
 conda:
-  file: doc/environment.yml
+  environment: doc/environment.yml
 
 python:
   version: 2.7
